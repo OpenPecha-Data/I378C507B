@@ -1,0 +1,109 @@
+id: 9bd9cbeda2254f1390ddfe6351ced849
+annotation_type: Language
+revision: '00001'
+annotations:
+  bce63ae6058f499281b170bdf0a4af11:
+    span:
+      start: 39
+      end: 170
+    language: en
+  6359492ce8ff456596090a90d5c867cd:
+    span:
+      start: 310
+      end: 335
+    language: en
+  3c23801e22be4e4ab07a9205c1951162:
+    span:
+      start: 358
+      end: 794
+    language: en
+  88c80fe28059412b96cbfa31a9178e8d:
+    span:
+      start: 14086
+      end: 14188
+    language: en
+  7a3cac30bbe04edcafdb13a35b2bf8c1:
+    span:
+      start: 47254
+      end: 47359
+    language: en
+  2f4bfbf705574b4eae37839518bbb513:
+    span:
+      start: 52948
+      end: 53042
+    language: en
+  768676654cab44d2af0058338c360cbd:
+    span:
+      start: 75630
+      end: 75678
+    language: en
+  150c64842e054fd6966f55af65e0b88c:
+    span:
+      start: 82805
+      end: 84003
+    language: en
+  b78bb857d5e144bab0e59a3c0ff3e6a3:
+    span:
+      start: 85435
+      end: 85581
+    language: en
+  3c99eef4359b47f08fba56978f2b9ff7:
+    span:
+      start: 94570
+      end: 94739
+    language: en
+  1b603a89787f4da1a0633256cbccad02:
+    span:
+      start: 107928
+      end: 108016
+    language: en
+  7fc0147b895b42cda192ab19d964c789:
+    span:
+      start: 110590
+      end: 110701
+    language: en
+  5873aad828404d53a5d6839568e086a1:
+    span:
+      start: 118784
+      end: 118810
+    language: en
+  e59de71f65f54669907618beddc89871:
+    span:
+      start: 121388
+      end: 121429
+    language: en
+  3c904d15febc4499b063b9e9123efc95:
+    span:
+      start: 178389
+      end: 178423
+    language: en
+  fb5247d9b09d4089a904bc60366b1e2c:
+    span:
+      start: 186220
+      end: 186258
+    language: en
+  3875bbe44150441990b7c401e06a52cb:
+    span:
+      start: 204086
+      end: 204941
+    language: en
+  6fb9350e45644c79911720fd2ada8f4f:
+    span:
+      start: 219539
+      end: 219630
+    language: en
+  f064dab678c94e268afeba0891ebd8bc:
+    span:
+      start: 254679
+      end: 254724
+    language: en
+  d569b38174e34da6b8ad6bed436f50d8:
+    span:
+      start: 258952
+      end: 258995
+    language: en
+  e943d511a6ba4cfc932abd5649bf61c3:
+    span:
+      start: 267687
+      end: 268098
+    language: en
